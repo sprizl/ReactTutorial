@@ -1,6 +1,9 @@
 {
   "dashboard": {
     "timeDelivery": "It's 2 hours until to lunch!",
-    "searchDinner": "Search for Dinner"
+    "searchDinner": "Search for Dinner",
+    "account": "Account",
+    "settings": "Settings",
+    "signout": "Sign Out"
   }
 }
