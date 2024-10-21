@@ -4,6 +4,8 @@
     "searchDinner": "Search for Dinner",
     "account": "Account",
     "settings": "Settings",
-    "signout": "Sign Out"
+    "signout": "Sign Out",
+    "myOrder": "My Order",
+    "title": "What would you like to eat today?"
   }
 }
