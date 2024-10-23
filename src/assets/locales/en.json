@@ -6,6 +6,9 @@
     "settings": "Settings",
     "signout": "Sign Out",
     "myOrder": "My Order",
-    "title": "What would you like to eat today?"
+    "title": "What would you like to eat today?",
+    "snack": "Snack",
+    "drinks": "Drinks",
+    "foods": "Foods"
   }
 }
